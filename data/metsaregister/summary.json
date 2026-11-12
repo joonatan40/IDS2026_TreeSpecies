@@ -1,0 +1,83 @@
+{
+  "downloaded_at": "2026-11-12T17:25:14.857628+00:00",
+  "source": "https://gsavalik.envir.ee/geoserver/metsaregister/wfs",
+  "min_age_exclusive": 20,
+  "enmap_footprints": "/home/martin/Documents/Tartu2025/3-semester/data-science/IDS2026_TreeSpecies/data/enmap_order_poly/enmap_order_poly.shp",
+  "min_main_species_share": 80,
+  "homogeneity": "Esimese rinde peapuuliigi osakaal; koosseisu summa peab olema 100%.",
+  "areas": [
+    {
+      "name": "pohja_eesti",
+      "split": "train",
+      "bbox": [
+        625953,
+        6566881,
+        635953,
+        6576881
+      ],
+      "crs": "EPSG:3301",
+      "bbox_candidates": 909,
+      "fully_inside": 867,
+      "selected": 330,
+      "species_counts": {
+        "KU": 188,
+        "MA": 58,
+        "HB": 54,
+        "KS": 30
+      },
+      "enmap_polygon_ids": [
+        3
+      ]
+    },
+    {
+      "name": "tartumaa",
+      "split": "train",
+      "bbox": [
+        643067,
+        6465215,
+        653067,
+        6475215
+      ],
+      "crs": "EPSG:3301",
+      "bbox_candidates": 1625,
+      "fully_inside": 1529,
+      "selected": 744,
+      "species_counts": {
+        "KU": 127,
+        "MA": 226,
+        "KS": 354,
+        "HB": 21,
+        "LM": 15,
+        "TA": 1
+      },
+      "enmap_polygon_ids": [
+        8
+      ]
+    },
+    {
+      "name": "louna_eesti",
+      "split": "test",
+      "bbox": [
+        669561,
+        6394326,
+        679561,
+        6404326
+      ],
+      "crs": "EPSG:3301",
+      "bbox_candidates": 4877,
+      "fully_inside": 4651,
+      "selected": 1621,
+      "species_counts": {
+        "KU": 561,
+        "KS": 540,
+        "MA": 471,
+        "HB": 46,
+        "LM": 2,
+        "SA": 1
+      },
+      "enmap_polygon_ids": [
+        5
+      ]
+    }
+  ]
+}

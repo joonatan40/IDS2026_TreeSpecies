@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "study_areas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3301" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "pohja_eesti", "split": "train" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 635953.0, 6566881.0 ], [ 635953.0, 6576881.0 ], [ 625953.0, 6576881.0 ], [ 625953.0, 6566881.0 ], [ 635953.0, 6566881.0 ] ] ] } },
+{ "type": "Feature", "properties": { "name": "tartumaa", "split": "train" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 653067.0, 6465215.0 ], [ 653067.0, 6475215.0 ], [ 643067.0, 6475215.0 ], [ 643067.0, 6465215.0 ], [ 653067.0, 6465215.0 ] ] ] } },
+{ "type": "Feature", "properties": { "name": "louna_eesti", "split": "test" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 679561.0, 6394326.0 ], [ 679561.0, 6404326.0 ], [ 669561.0, 6404326.0 ], [ 669561.0, 6394326.0 ], [ 679561.0, 6394326.0 ] ] ] } }
+]
+}

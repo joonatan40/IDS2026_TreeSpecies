@@ -1,0 +1,28 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
