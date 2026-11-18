@@ -1,0 +1,1212 @@
+[
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20220625T093051_N0510_R136_T35VMF_20240703T013015",
+    "tile": "T35VMF",
+    "date": "20220625",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\pohja_eesti\\S2A_MSIL2A_20220625T093051_N0510_R136_T35VMF_20240703T013015.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 954,
+    "height": 1028,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20220827T093601_N0510_R036_T35VME_20240717T150803",
+    "tile": "T35VME",
+    "date": "20220827",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20220713T093549_N0510_R036_T35VMF_20240724T031558",
+    "tile": "T35VMF",
+    "date": "20220713",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\pohja_eesti\\S2B_MSIL2A_20220713T093549_N0510_R036_T35VMF_20240724T031558.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 954,
+    "height": 1028,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20220812T093549_N0510_R036_T35VME_20240713T145953",
+    "tile": "T35VME",
+    "date": "20220812",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20220812T093549_N0510_R036_T35VMF_20240713T145953",
+    "tile": "T35VMF",
+    "date": "20220812",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\pohja_eesti\\S2B_MSIL2A_20220812T093549_N0510_R036_T35VMF_20240713T145953.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 954,
+    "height": 1028,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230531T093041_N0510_R136_T35VMD_20240908T104259",
+    "tile": "T35VMD",
+    "date": "20230531",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230613T094041_N0510_R036_T35VMD_20240927T204801",
+    "tile": "T35VMD",
+    "date": "20230613",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230613T094041_N0510_R036_T35VME_20240927T204801",
+    "tile": "T35VME",
+    "date": "20230613",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230620T093041_N0510_R136_T35VMD_20240926T053626",
+    "tile": "T35VMD",
+    "date": "20230620",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230620T093041_N0510_R136_T35VME_20240926T053626",
+    "tile": "T35VME",
+    "date": "20230620",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20230608T093549_N0510_R036_T35VMD_20240911T145836",
+    "tile": "T35VMD",
+    "date": "20230608",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20230608T093549_N0510_R036_T35VME_20240911T145836",
+    "tile": "T35VME",
+    "date": "20230608",
+    "baseline": "N0510",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20250512T093141_N0511_R136_T35VMF_20250512T112313",
+    "tile": "T35VMF",
+    "date": "20250512",
+    "baseline": "N0511",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\pohja_eesti\\S2A_MSIL2A_20250512T093141_N0511_R136_T35VMF_20250512T112313.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 954,
+    "height": 1028,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2A_MSIL2A_20250604T094121_N0511_R036_T35VME_20250604T112305",
+    "tile": "T35VME",
+    "date": "20250604",
+    "baseline": "N0511",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20250521T095029_N0511_R079_T35VMF_20250521T120504",
+    "tile": "T35VMF",
+    "date": "20250521",
+    "baseline": "N0511",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\pohja_eesti\\S2B_MSIL2A_20250521T095029_N0511_R079_T35VMF_20250521T120504.tif",
+    "status": "ok",
+    "valid_fraction": 0.8206,
+    "cloud_fraction": 0.0757,
+    "width": 954,
+    "height": 1028,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20250604T093029_N0511_R136_T35VME_20250604T122431",
+    "tile": "T35VME",
+    "date": "20250604",
+    "baseline": "N0511",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20250614T093029_N0511_R136_T35VME_20250614T113630",
+    "tile": "T35VME",
+    "date": "20250614",
+    "baseline": "N0511",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2C_MSIL2A_20250615T095051_N0511_R079_T35VMF_20250615T122401",
+    "tile": "T35VMF",
+    "date": "20250615",
+    "baseline": "N0511",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\pohja_eesti\\S2C_MSIL2A_20250615T095051_N0511_R079_T35VMF_20250615T122401.tif",
+    "status": "ok",
+    "valid_fraction": 0.8028,
+    "cloud_fraction": 0.0,
+    "width": 954,
+    "height": 1028,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2B_MSIL2A_20260523T094029_N0512_R036_T35VME_20260523T115725",
+    "tile": "T35VME",
+    "date": "20260523",
+    "baseline": "N0512",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "pohja_eesti",
+    "split": "train",
+    "product": "S2C_MSIL2A_20260717T094031_N0512_R036_T35VME_20260717T130815",
+    "tile": "T35VME",
+    "date": "20260717",
+    "baseline": "N0512",
+    "n_stands": 330,
+    "bbox_3301": [
+      626048.34,
+      6566882.27,
+      635141.34,
+      6576745.48
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\pohja_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20220625T093051_N0510_R136_T35VMF_20240703T013015",
+    "tile": "T35VMF",
+    "date": "20220625",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20220827T093601_N0510_R036_T35VME_20240717T150803",
+    "tile": "T35VME",
+    "date": "20220827",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2A_MSIL2A_20220827T093601_N0510_R036_T35VME_20240717T150803.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20220713T093549_N0510_R036_T35VMF_20240724T031558",
+    "tile": "T35VMF",
+    "date": "20220713",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20220812T093549_N0510_R036_T35VME_20240713T145953",
+    "tile": "T35VME",
+    "date": "20220812",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2B_MSIL2A_20220812T093549_N0510_R036_T35VME_20240713T145953.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20220812T093549_N0510_R036_T35VMF_20240713T145953",
+    "tile": "T35VMF",
+    "date": "20220812",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230531T093041_N0510_R136_T35VMD_20240908T104259",
+    "tile": "T35VMD",
+    "date": "20230531",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230613T094041_N0510_R036_T35VMD_20240927T204801",
+    "tile": "T35VMD",
+    "date": "20230613",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230613T094041_N0510_R036_T35VME_20240927T204801",
+    "tile": "T35VME",
+    "date": "20230613",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2A_MSIL2A_20230613T094041_N0510_R036_T35VME_20240927T204801.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0001,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230620T093041_N0510_R136_T35VMD_20240926T053626",
+    "tile": "T35VMD",
+    "date": "20230620",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20230620T093041_N0510_R136_T35VME_20240926T053626",
+    "tile": "T35VME",
+    "date": "20230620",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2A_MSIL2A_20230620T093041_N0510_R136_T35VME_20240926T053626.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20230608T093549_N0510_R036_T35VMD_20240911T145836",
+    "tile": "T35VMD",
+    "date": "20230608",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20230608T093549_N0510_R036_T35VME_20240911T145836",
+    "tile": "T35VME",
+    "date": "20230608",
+    "baseline": "N0510",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2B_MSIL2A_20230608T093549_N0510_R036_T35VME_20240911T145836.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20250512T093141_N0511_R136_T35VMF_20250512T112313",
+    "tile": "T35VMF",
+    "date": "20250512",
+    "baseline": "N0511",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2A_MSIL2A_20250604T094121_N0511_R036_T35VME_20250604T112305",
+    "tile": "T35VME",
+    "date": "20250604",
+    "baseline": "N0511",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2A_MSIL2A_20250604T094121_N0511_R036_T35VME_20250604T112305.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0022,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20250521T095029_N0511_R079_T35VMF_20250521T120504",
+    "tile": "T35VMF",
+    "date": "20250521",
+    "baseline": "N0511",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20250604T093029_N0511_R136_T35VME_20250604T122431",
+    "tile": "T35VME",
+    "date": "20250604",
+    "baseline": "N0511",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2B_MSIL2A_20250604T093029_N0511_R136_T35VME_20250604T122431.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0019,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20250614T093029_N0511_R136_T35VME_20250614T113630",
+    "tile": "T35VME",
+    "date": "20250614",
+    "baseline": "N0511",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2B_MSIL2A_20250614T093029_N0511_R136_T35VME_20250614T113630.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0009,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2C_MSIL2A_20250615T095051_N0511_R079_T35VMF_20250615T122401",
+    "tile": "T35VMF",
+    "date": "20250615",
+    "baseline": "N0511",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2B_MSIL2A_20260523T094029_N0512_R036_T35VME_20260523T115725",
+    "tile": "T35VME",
+    "date": "20260523",
+    "baseline": "N0512",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2B_MSIL2A_20260523T094029_N0512_R036_T35VME_20260523T115725.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "tartumaa",
+    "split": "train",
+    "product": "S2C_MSIL2A_20260717T094031_N0512_R036_T35VME_20260717T130815",
+    "tile": "T35VME",
+    "date": "20260717",
+    "baseline": "N0512",
+    "n_stands": 744,
+    "bbox_3301": [
+      643068.7,
+      6465216.57,
+      653050.31747789,
+      6475212.272
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\tartumaa.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\tartumaa\\S2C_MSIL2A_20260717T094031_N0512_R036_T35VME_20260717T130815.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20220625T093051_N0510_R136_T35VMF_20240703T013015",
+    "tile": "T35VMF",
+    "date": "20220625",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20220827T093601_N0510_R036_T35VME_20240717T150803",
+    "tile": "T35VME",
+    "date": "20220827",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2A_MSIL2A_20220827T093601_N0510_R036_T35VME_20240717T150803.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20220713T093549_N0510_R036_T35VMF_20240724T031558",
+    "tile": "T35VMF",
+    "date": "20220713",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20220812T093549_N0510_R036_T35VME_20240713T145953",
+    "tile": "T35VME",
+    "date": "20220812",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2B_MSIL2A_20220812T093549_N0510_R036_T35VME_20240713T145953.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20220812T093549_N0510_R036_T35VMF_20240713T145953",
+    "tile": "T35VMF",
+    "date": "20220812",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20230531T093041_N0510_R136_T35VMD_20240908T104259",
+    "tile": "T35VMD",
+    "date": "20230531",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20230613T094041_N0510_R036_T35VMD_20240927T204801",
+    "tile": "T35VMD",
+    "date": "20230613",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20230613T094041_N0510_R036_T35VME_20240927T204801",
+    "tile": "T35VME",
+    "date": "20230613",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2A_MSIL2A_20230613T094041_N0510_R036_T35VME_20240927T204801.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20230620T093041_N0510_R136_T35VMD_20240926T053626",
+    "tile": "T35VMD",
+    "date": "20230620",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20230620T093041_N0510_R136_T35VME_20240926T053626",
+    "tile": "T35VME",
+    "date": "20230620",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2A_MSIL2A_20230620T093041_N0510_R136_T35VME_20240926T053626.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20230608T093549_N0510_R036_T35VMD_20240911T145836",
+    "tile": "T35VMD",
+    "date": "20230608",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20230608T093549_N0510_R036_T35VME_20240911T145836",
+    "tile": "T35VME",
+    "date": "20230608",
+    "baseline": "N0510",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2B_MSIL2A_20230608T093549_N0510_R036_T35VME_20240911T145836.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20250512T093141_N0511_R136_T35VMF_20250512T112313",
+    "tile": "T35VMF",
+    "date": "20250512",
+    "baseline": "N0511",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2A_MSIL2A_20250604T094121_N0511_R036_T35VME_20250604T112305",
+    "tile": "T35VME",
+    "date": "20250604",
+    "baseline": "N0511",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2A_MSIL2A_20250604T094121_N0511_R036_T35VME_20250604T112305.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20250521T095029_N0511_R079_T35VMF_20250521T120504",
+    "tile": "T35VMF",
+    "date": "20250521",
+    "baseline": "N0511",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20250604T093029_N0511_R136_T35VME_20250604T122431",
+    "tile": "T35VME",
+    "date": "20250604",
+    "baseline": "N0511",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2B_MSIL2A_20250604T093029_N0511_R136_T35VME_20250604T122431.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0001,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20250614T093029_N0511_R136_T35VME_20250614T113630",
+    "tile": "T35VME",
+    "date": "20250614",
+    "baseline": "N0511",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2B_MSIL2A_20250614T093029_N0511_R136_T35VME_20250614T113630.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0928,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2C_MSIL2A_20250615T095051_N0511_R079_T35VMF_20250615T122401",
+    "tile": "T35VMF",
+    "date": "20250615",
+    "baseline": "N0511",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "",
+    "status": "bbox ei mahu tile'i sisse"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2B_MSIL2A_20260523T094029_N0512_R036_T35VME_20260523T115725",
+    "tile": "T35VME",
+    "date": "20260523",
+    "baseline": "N0512",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2B_MSIL2A_20260523T094029_N0512_R036_T35VME_20260523T115725.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.043,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  },
+  {
+    "area": "louna_eesti",
+    "split": "test",
+    "product": "S2C_MSIL2A_20260717T094031_N0512_R036_T35VME_20260717T130815",
+    "tile": "T35VME",
+    "date": "20260717",
+    "baseline": "N0512",
+    "n_stands": 1621,
+    "bbox_3301": [
+      669576.55355811,
+      6394327.932,
+      679558.272,
+      6404313.03
+    ],
+    "stands_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\metsaregister\\louna_eesti.geojson",
+    "clip_file": "c:\\Users\\joonkama\\OneDrive - Tartu Ülikool\\Dokumendid\\IDS2026TreeSpecies\\IDS2026_TreeSpecies\\data\\sentinel2_clips\\louna_eesti\\S2C_MSIL2A_20260717T094031_N0512_R036_T35VME_20260717T130815.tif",
+    "status": "ok",
+    "valid_fraction": 1.0,
+    "cloud_fraction": 0.0,
+    "width": 1044,
+    "height": 1044,
+    "crs": "EPSG:32635"
+  }
+]
