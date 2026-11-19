@@ -1,0 +1,10 @@
+,Hold-out FLAT,Hold-out HIERARHILINE,Valideerimine FLAT (louna_eesti),Valideerimine HIERARHILINE (louna_eesti)
+accuracy,0.7514,0.7514,0.7117,0.7248
+balanced_accuracy (macro recall),0.6797,0.6624,0.5671,0.5766
+kappa,0.6471,0.6482,0.5732,0.5929
+precision_macro,0.7582,0.7444,0.6377,0.6327
+recall_macro,0.6797,0.6624,0.5671,0.5766
+f1_macro,0.6772,0.6602,0.5778,0.5872
+precision_weighted,0.7697,0.7763,0.7113,0.7255
+recall_weighted,0.7514,0.7514,0.7117,0.7248
+f1_weighted,0.7536,0.7572,0.7072,0.7218
